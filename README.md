@@ -403,7 +403,7 @@ public class RoomTest {
 
 ## 其他
 
-[demo地址](http://code.sunmi.com/zengdongyang/RoomDemo)
+[demo地址](https://github.com/3642072/RoomDemo)
 
 ```sql
 数据库更新：
